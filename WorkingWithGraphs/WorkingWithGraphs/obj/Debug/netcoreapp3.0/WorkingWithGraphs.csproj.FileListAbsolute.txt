@@ -1,0 +1,11 @@
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.exe
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.deps.json
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.runtimeconfig.json
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.runtimeconfig.dev.json
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.dll
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\bin\Debug\netcoreapp3.0\WorkingWithGraphs.pdb
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\obj\Debug\netcoreapp3.0\WorkingWithGraphs.csprojAssemblyReference.cache
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\obj\Debug\netcoreapp3.0\WorkingWithGraphs.AssemblyInfoInputs.cache
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\obj\Debug\netcoreapp3.0\WorkingWithGraphs.AssemblyInfo.cs
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\obj\Debug\netcoreapp3.0\WorkingWithGraphs.dll
+C:\Users\VikS\source\repos\WorkingWithGraphs\WorkingWithGraphs\obj\Debug\netcoreapp3.0\WorkingWithGraphs.pdb
